@@ -1,0 +1,25 @@
+2023.03.08 05:21:03 INFO  Started: Metals version 0.11.11 in workspace 'D:\vscode for python' for client Visual Studio Code 1.74.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Dong/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.08 05:21:04 INFO  time: initialize in 0.47s
+2023.03.08 05:21:05 WARN  Build server is not auto-connectable.
+2023.03.08 05:21:05 WARN  no build tool detected in workspace 'D:\vscode for python'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.03.08 06:31:49 INFO  Shutting down server
+2023.03.08 06:31:49 INFO  shutting down Metals
+2023.03.08 06:31:49 INFO  Exiting server
+2023.03.08 06:32:44 INFO  Started: Metals version 0.11.11 in workspace 'D:\vscode for python' for client Visual Studio Code 1.74.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Dong/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.08 06:32:44 INFO  time: initialize in 0.42s
+2023.03.08 06:32:45 WARN  Build server is not auto-connectable.
+2023.03.08 06:32:45 WARN  no build tool detected in workspace 'D:\vscode for python'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+3月 08, 2023 6:34:58 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
