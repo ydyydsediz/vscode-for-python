@@ -23,3 +23,12 @@ SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
 2023.03.08 06:32:45 WARN  no build tool detected in workspace 'D:\vscode for python'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 3月 08, 2023 6:34:58 上午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 信息: Unsupported notification method: $/setTrace
+3月 08, 2023 9:03:42 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+3月 08, 2023 9:03:55 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+3月 08, 2023 9:03:55 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+信息: Unsupported notification method: $/setTrace
+2023.03.08 21:15:09 INFO  Shutting down server
+2023.03.08 21:15:09 INFO  shutting down Metals
+2023.03.08 21:15:09 INFO  Exiting server
